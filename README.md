@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jensone
+- 👋 Hi, I’m @Jensone Creative Developper & Head of pedagogy
 
 
 <!---
