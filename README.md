@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jensone Creative Developper & Head of pedagogy
+![](https://sosdevtips.b-cdn.net/agiliteach/agiliteach_colors.svg)
 
 
 <!---
