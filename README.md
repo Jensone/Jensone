@@ -1,7 +1,6 @@
 ![](https://sosdevtips.b-cdn.net/agiliteach/agiliteach_colors.svg)
 
 <h1 align="center">Hi 👋, I'm Jensone</h1>
-<h3 align="center">Agiliteach method creator</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
