@@ -1,12 +1,49 @@
-![](https://sosdevtips.b-cdn.net/agiliteach/agiliteach_colors.svg)
+## Hey 👋, I'm Jensone
 
-<h1 align="center">Hi 👋, I'm Jensone</h1>
+As a tech professional for 14 years, I work on many aspects of web application projects as well as student web development courses. I implement solutions with adapted UX and UI, a full stack development with modern and current technologies. If you're looking to hire me, checkout my tech stack to match with your needs.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jensonejc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jensonejc" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">Main project</h2>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+[![Agiliteach](https://sosdevtips.b-cdn.net/agiliteach/github-at-.gif)](https://agiliteach.org)
+
+<br>
+
+### 🧰 Tech stack
+![Sass](https://img.shields.io/badge/-Sass-101010?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-101010?style=for-the-badge&logo=PHP&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-101010?style=for-the-badge&logo=Symfony&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-101010?style=for-the-badge&logo=MariaDB&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/-bash-101010?style=for-the-badge&logo=shell&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-101010?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-101010?style=for-the-badge&logo=Angular&logoColor=white)
+![API](https://img.shields.io/badge/-API-101010?style=for-the-badge&logo=json&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-101010?style=for-the-badge&logo=material-design&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-101010?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-101010?style=for-the-badge&logo=Astro&logoColor=white)
+![Hugo](https://img.shields.io/badge/-Hugo-101010?style=for-the-badge&logo=Hugo&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-101010?style=for-the-badge&logo=Node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/-Git-101010?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/-Github-101010?style=for-the-badge&logo=github&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-101010?style=for-the-badge&logo=cloudflare&logoColor=white)
+![npm](https://img.shields.io/badge/-NPM-101010?style=for-the-badge&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-101010?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-101010?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-101010?style=for-the-badge&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-101010?style=for-the-badge&logo=notion&logoColor=white)
+
+### 🖍️ Design
+![Figma](https://img.shields.io/badge/-Figma-101010?style=for-the-badge&logo=figma&logoColor=white)
+![Material Design](https://img.shields.io/badge/-Adobe%20XD-101010?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-101010?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+<br>
+
+### 📊 My stats
+![Jensone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jensone&show_icons=true)
