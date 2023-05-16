@@ -46,4 +46,4 @@ As a tech professional for 14 years, I work on many aspects of web application p
 <br>
 
 ### 📊 My stats
-![Jensone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jensone&show_icons=true)
+![Jensone's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jensone&show_icons=true)
