@@ -16,9 +16,16 @@ J'ai débuté dans le web en tant que graphiste en 2009, puis de client en clien
 
 ## 📚 Contact
 
-- Pour me booker afin d'assurer une formation : [Jensone.com](https://jensone.com)
-- Tu veux apprendre à coder ? DevPro ma formation : [Agiliteach.fr](https://agiliteach.fr)
+Pour les particuliers :
+
+- Tu veux apprendre à coder ? Ma plateforme de formation : [Agiliteach.fr](https://agiliteach.fr)
 - Pour rejoindre mon serveur Discord : [Agiliteach](https://discord.gg/kK8u8TxbJe)
+- Besoin d'un coach en en carrière dans le développeur web ? hello@agiliteach.fr
+
+Pour les entreprises :
+
+- Pour me booker afin d'assurer une formation : contact@qualidirect.fr - TJM à partir de 500€ HT, dégressif en fonction du nombre d’interventions.
+- Vous souhaitez améliorer les programmes de formation tech de votre OF ou automatiser vos activités ? : [QualiDirect](https://qualidirect.fr)
 
 <br>
 
