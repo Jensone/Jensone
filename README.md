@@ -20,12 +20,12 @@ Pour les particuliers :
 
 - Tu veux apprendre à coder ? Ma plateforme de formation : [Agiliteach.fr](https://agiliteach.fr)
 - Pour rejoindre mon serveur Discord : [Agiliteach](https://discord.gg/kK8u8TxbJe)
-- Besoin d'un coach en en carrière dans le développeur web ? Visio de découverte : [Mon agenda](https://meet.brevo.com/agiliteach)
+- Besoin d'un coach en carrière dans le développement web ? Visio de découverte : [Mon agenda](https://meet.brevo.com/agiliteach)
 
 Pour les entreprises :
 
-- Pour me booker afin d'assurer une formation : contact@qualidirect.fr - TJM à partir de 500€ HT, dégressif en fonction du nombre d’interventions.
-- Vous souhaitez améliorer les programmes de formation tech de votre OF ou automatiser vos activités ? : [QualiDirect](https://qualidirect.fr)
+- Pour me booker afin d'assurer une formation : contact@qualidirect.fr - TJM 500€ HT, dégressif en fonction du nombre d’interventions.
+- Vous souhaitez améliorer les programmes de formations tech de votre OF ou automatiser vos activités ? : [QualiDirect](https://qualidirect.fr)
 
 <br>
 
