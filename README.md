@@ -20,7 +20,7 @@ Pour les particuliers :
 
 - Tu veux apprendre à coder ? Ma plateforme de formation : [Agiliteach.fr](https://agiliteach.fr)
 - Pour rejoindre mon serveur Discord : [Agiliteach](https://discord.gg/kK8u8TxbJe)
-- Besoin d'un coach en en carrière dans le développeur web ? hello@agiliteach.fr
+- Besoin d'un coach en en carrière dans le développeur web ? Visio de découverte : [Mon agenda](https://meet.brevo.com/agiliteach)
 
 Pour les entreprises :
 
