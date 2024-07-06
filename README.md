@@ -2,9 +2,9 @@
 
 ---
 
-## Entrepreneur, Fullstack Developer, Formateur
+## Entrepreneur, Fullstack Developer
 
-J'ai débuté dans le web en tant que graphiste en 2009, puis de client en client, je me suis formé pour répondre aux besoins qu'ils avaient. J'ai donc appris à coder et ça m'a tellement plu que je me suis plongé dans cet univers. Frontend, backend, marketing, applications web... +10 ans d'expérience en tant que freelance dans le dev et la formation.
+J'ai débuté dans le web en tant que graphiste en 2009, puis de client en client, je me suis formé pour répondre aux besoins qu'ils avaient. J'ai donc appris à coder et ça m'a tellement plu que je me suis plongé dans cet univers. Frontend, backend, marketing, applications web... +10 ans d'expérience en tant que freelance dans le dev d'applications web.
 
 <br>
 
