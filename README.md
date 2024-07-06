@@ -1,4 +1,4 @@
-[![Jensone](BanniereLinkedIn-Presta copie.jpg)](https://jensone.com)
+![Jensone](https://agiliteach.b-cdn.net/medias/images/b-linkedin.jpg)
 
 ---
 
