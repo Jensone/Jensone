@@ -1,4 +1,4 @@
-[![Jensone](https://sosdevtips.b-cdn.net/agiliteach/banner-min.png)](https://agiliteach.fr)
+[![Jensone](BanniereLinkedIn-Presta copie.jpg)](https://jensone.com)
 
 ---
 
