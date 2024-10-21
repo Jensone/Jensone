@@ -2,7 +2,7 @@
 
 ![Jensone](https://agiliteach.b-cdn.net/medias/images/b-linkedin.jpg)
 
-Fullstack Developer Sr. specialized inf PHP Symfony and React since 2014.
+Senior Fullstack Developer specializing in PHP Symfony and React since 2014.
 
 ---
 
