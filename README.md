@@ -27,7 +27,7 @@ Senior Fullstack Developer specializing in PHP Symfony and React since 2014.
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="#">
+        <a href="https://youtube.com/@jensone-dev">
           <img alt="" src="https://raw.githubusercontent.com/jensone/jensone/master/jensone.png" />
         </a>
       </td>
