@@ -1,7 +1,3 @@
-# I'm Jensone 👋
-
-![Jensone](https://agiliteach.b-cdn.net/medias/images/b-linkedin.jpg)
-
 Senior Fullstack Developer specializing in PHP Symfony and React. 10 years XP 🚀
 
 ---
